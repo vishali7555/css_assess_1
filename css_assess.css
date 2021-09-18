@@ -1,0 +1,52 @@
+
+    
+        .highlight
+        { 
+            background-color:yellow; 
+            font-weight: bold;
+        }
+       
+        .last
+        {
+             font-family: Calibri, 'Trebuchet MS', sans-serif;
+             color: rgb(192, 130, 15);
+             font-size: 17px;
+             font-weight: 550;
+        }
+        
+        .heading
+        {
+            color: royalblue;
+            font-size: 20.5px;
+            font-family:  'Times New Roman', Times, serif;
+            font-style: italic;
+            
+            
+        }
+    
+        ol
+        {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color : darkred;
+            font-size: 17px;
+            le
+        }
+
+        ul
+        {
+            font-family: monospace;
+            color: rgb(252, 17, 17);
+            font-size: 16px;
+            letter-spacing: 3px;
+        }
+
+        h1{
+            color: rgba(231, 13, 13, 0.788);
+        }
+        
+    
+        link_style
+        {
+            text-decoration-style: none;
+        }
+    
