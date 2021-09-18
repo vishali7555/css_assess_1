@@ -24,15 +24,14 @@
             
         }
     
-        ol
+        .ol
         {
             font-family: Georgia, 'Times New Roman', Times, serif;
             color : darkred;
             font-size: 17px;
-            
         }
 
-        ul
+        .ul
         {
             font-family: monospace;
             color: rgb(252, 17, 17);
